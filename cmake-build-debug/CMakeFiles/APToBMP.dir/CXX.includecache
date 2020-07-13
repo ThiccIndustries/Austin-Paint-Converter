@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/tskup/CLionProjects/APToBMP/Color.cpp
+Color.h
+C:/Users/tskup/CLionProjects/APToBMP/Color.h
+
+C:/Users/tskup/CLionProjects/APToBMP/Color.h
+
+C:/Users/tskup/CLionProjects/APToBMP/main.cpp
+iostream
+-
+fstream
+-
+Color.h
+C:/Users/tskup/CLionProjects/APToBMP/Color.h
+
