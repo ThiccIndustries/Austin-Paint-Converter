@@ -1,3 +1,0 @@
-C:/Users/tskup/CLionProjects/APToBMP/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/tskup/CLionProjects/APToBMP/cmake-build-debug/CMakeFiles/APToBMP.dir
-C:/Users/tskup/CLionProjects/APToBMP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
